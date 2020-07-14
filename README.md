@@ -53,6 +53,7 @@
 
 ## Java 
 
+- [oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [tilesfx](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles that can be used for dashboards.
 - [jsondb-core](https://github.com/Jsondb/jsondb-core) - JsonDB a pure java database that stores its data as Json Files
 - [XChart](https://github.com/knowm/XChart) - XChart is a light-weight Java library for plotting data.
