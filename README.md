@@ -112,6 +112,7 @@
 
 ## Others 
 
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [winmin-instructions](https://github.com/vlinkz/winmin-instructions) - Instructions on installing the Winmin prerelease
 - [awesome-dev-discord](https://github.com/ljosberinn/awesome-dev-discord) - A curated list of official, development-related Discord server
@@ -144,7 +145,7 @@
 
 ## Ruby 
 
-- [forem](https://github.com/forem/forem) - “For empowering community”
+- [forem](https://github.com/forem/forem) - For empowering community
 
 ## Shell 
 
