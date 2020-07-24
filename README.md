@@ -45,6 +45,7 @@
 
 ## Go 
 
+- [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
