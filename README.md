@@ -158,6 +158,7 @@
 
 ## Ruby 
 
+- [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 - [forem](https://github.com/forem/forem) - For empowering community 🌱
 
 ## Shell 
