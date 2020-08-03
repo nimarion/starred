@@ -45,6 +45,7 @@
 
 ## Go 
 
+- [gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
 - [Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
@@ -87,7 +88,7 @@
 
 ## JavaScript 
 
-- [responsively-app](https://github.com/manojVivek/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
