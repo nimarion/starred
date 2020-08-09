@@ -115,6 +115,7 @@
 
 ## Jupyter Notebook 
 
+- [MIR-Genre-Predictor](https://github.com/christianlomboy/MIR-Genre-Predictor) - Built in Python, this project contains two classifier models that predict a song’s genre. Each model was exposed to various data points gathered from a multitude of songs.
 - [HiDT](https://github.com/saic-mdal/HiDT) - Official repository for the paper High-Resolution Daytime Translation Without Domain Labels (CVPR2020, Oral)
 
 ## Kotlin 
