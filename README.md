@@ -10,6 +10,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Dockerfile](#dockerfile)
+  - [GDScript](#gdscript)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -50,6 +51,10 @@
 ## Dockerfile 
 
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+
+## GDScript 
+
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux & macOS!
 
 ## Go 
 
@@ -97,6 +102,8 @@
 
 ## JavaScript 
 
+- [responsive-loader](https://github.com/dazuaz/responsive-loader) - A webpack loader for responsive images
+- [favicons-webpack-plugin](https://github.com/jantimon/favicons-webpack-plugin) - Let webpack generate all your favicons and icons for you
 - [snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
 - [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [forem-browser-extension](https://github.com/forem/forem-browser-extension) - The Forem browser extension which allows users to seamlessly navigate between communities.
