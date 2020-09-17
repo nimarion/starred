@@ -205,6 +205,7 @@
 
 ## TypeScript 
 
+- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [vscode-dimmer](https://github.com/hoovercj/vscode-dimmer) - 
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
