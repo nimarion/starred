@@ -103,6 +103,7 @@
 
 ## JavaScript 
 
+- [react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
 - [lol](https://github.com/emmabostian/lol) - 
 - [responsive-loader](https://github.com/dazuaz/responsive-loader) - A webpack loader for responsive images
 - [favicons-webpack-plugin](https://github.com/jantimon/favicons-webpack-plugin) - Let webpack generate all your favicons and icons for you
