@@ -79,6 +79,7 @@
 
 ## Java 
 
+- [SirDuck](https://github.com/cryoW0lf/SirDuck) - 
 - [spoticord](https://github.com/Biospheere/spoticord) - 🎶 View the Spotify listening activity of your entire discord guild. Top Tracks, Album, Artists and more...
 - [promcord](https://github.com/Biospheere/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics...
 - [jkube](https://github.com/eclipse/jkube) - Successor of the deprecated Fabric8 Maven Plugin
