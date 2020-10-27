@@ -62,7 +62,7 @@
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
 - [Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
-- [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
