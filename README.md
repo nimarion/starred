@@ -85,8 +85,8 @@
 ## Java 
 
 - [SirDuck](https://github.com/cryoW0lf/SirDuck) - 
-- [spoticord](https://github.com/Biospheere/spoticord) - 🎶 View the Spotify listening activity of your entire discord guild. Top Tracks, Album, Artists and more...
-- [promcord](https://github.com/Biospheere/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics...
+- [spoticord](https://github.com/nimarion/spoticord) - 🎶 View the Spotify listening activity of your entire discord guild. Top Tracks, Album, Artists and more...
+- [promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics...
 - [jkube](https://github.com/eclipse/jkube) - Successor of the deprecated Fabric8 Maven Plugin
 - [kube_vertx_demo](https://github.com/amoAHCP/kube_vertx_demo) - A Kubernetes, Vert.x/Hazelcast/vxms demo
 - [sample-vertx-microservices](https://github.com/piomin/sample-vertx-microservices) - Two applications in different branches illustrates how to create asynchronous microservices with Vert.x, Consul and MongoDB, and how to secure them with Vert.x OAuth2 module and Keycloak
@@ -110,6 +110,7 @@
 
 ## JavaScript 
 
+- [htwbingo](https://github.com/amiede/htwbingo) - htw-Video-Konferenzen-Bingo™
 - [react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
 - [lol](https://github.com/emmabostian/lol) - 
 - [responsive-loader](https://github.com/dazuaz/responsive-loader) - A webpack loader for responsive images
@@ -235,5 +236,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Biospheere](https://github.com/Biospheere) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [nimarion](https://github.com/nimarion) has waived all copyright and related or neighboring rights to this work.
 
