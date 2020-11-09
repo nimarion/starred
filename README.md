@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
