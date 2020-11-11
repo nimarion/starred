@@ -112,6 +112,7 @@
 
 ## JavaScript 
 
+- [hacktoberfest-data](https://github.com/MattIPv4/hacktoberfest-data) - Generating stats from the Hacktoberfest 2019 raw data.
 - [killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [htwbingo](https://github.com/amiede/htwbingo) - htw-Video-Konferenzen-Bingo™
 - [react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
