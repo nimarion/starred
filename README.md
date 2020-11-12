@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
 - [diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
@@ -112,7 +113,7 @@
 
 ## JavaScript 
 
-- [hacktoberfest-data](https://github.com/MattIPv4/hacktoberfest-data) - Generating stats from the Hacktoberfest 2019 raw data.
+- [hacktoberfest-data](https://github.com/MattIPv4/hacktoberfest-data) - Generating stats from the Hacktoberfest 2020 raw GitHub and application data.
 - [killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [htwbingo](https://github.com/amiede/htwbingo) - htw-Video-Konferenzen-Bingo™
 - [react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
