@@ -88,6 +88,7 @@
 
 ## Java 
 
+- [EmojIDE](https://github.com/RubbaBoy/EmojIDE) - Programming in Discord emojis. Second place for the ProgrammerHumor Hackathon
 - [SirDuck](https://github.com/cryoW0lf/SirDuck) - 
 - [spoticord](https://github.com/nimarion/spoticord) - 🎶 View the Spotify listening activity of your entire discord guild. Top Tracks, Album, Artists and more...
 - [promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics...
