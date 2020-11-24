@@ -39,6 +39,7 @@
 
 ## C# # 
 
+- [NoteBar](https://github.com/PavelStefanov/NoteBar) - Windows taskbar toolbar indicators
 - [SteamShutdown](https://github.com/akorb/SteamShutdown) - Automatic shutdown after Steam download(s) has finished.
 
 ## C++ 
