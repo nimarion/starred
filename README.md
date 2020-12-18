@@ -81,6 +81,7 @@
 
 ## HTML 
 
+- [domain_seizure](https://github.com/Linuzifer/domain_seizure) - Ready to use mobile-friendly domain seizure pages
 - [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
