@@ -192,6 +192,7 @@
 
 ## Python 
 
+- [fatigue-detector](https://github.com/hhhrrrttt222111/fatigue-detector) - A Flask app that detects fatigue during online classes.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
