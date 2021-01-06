@@ -123,6 +123,7 @@
 
 ## JavaScript 
 
+- [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡️ Build scalable and accessible Vue.js applications with ease.
 - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: real-time collaborative document editor
@@ -181,6 +182,7 @@
 
 ## Others 
 
+- [advanced-git](https://github.com/nnja/advanced-git) - Frontend Masters Advanced Git - by Nina Zakharenko
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
@@ -195,6 +197,7 @@
 
 ## PHP 
 
+- [firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [oembed](https://github.com/wrav/oembed) - A simple plugin to extract media information from websites, like youtube videos, twitter statuses or blog articles.
 
 ## Python 
