@@ -123,6 +123,7 @@
 
 ## JavaScript 
 
+- [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
 - [DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - A 1.1.1.1 DNS resolver built for Discord
 - [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡️ Build scalable and accessible Vue.js applications with ease.
 - [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
@@ -251,7 +252,7 @@
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vstodo](https://github.com/benawad/vstodo) - Todo list for VSCode
 - [socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
-- [piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users
+- [piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP, designed for everyone using Unix pipe and even for browser users
 - [supabase](https://github.com/supabase/supabase) - Website, docs, and examples. Follow to stay updated about our public Beta.
 - [vscode-stories](https://github.com/ide-stories/vscode-stories) - Stories for VSCode
 - [vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader) - uploads gifs to azure blob storage
@@ -266,6 +267,7 @@
 
 ## Vue 
 
+- [AnotherPomodoro](https://github.com/Hanziness/AnotherPomodoro) - Free Pomodoro timer app built with Nuxt.
 - [piping-phone-web](https://github.com/nwtgck/piping-phone-web) - 📞 Real-time Voice Messaging over HTTP/HTTPS for Web Browser via Piping Server
 - [is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [gridsome.org](https://github.com/gridsome/gridsome.org) - The website for Gridsome.org
