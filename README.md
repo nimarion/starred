@@ -36,6 +36,7 @@
 ## C 
 
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
+- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 
 ## C# # 
 
@@ -73,7 +74,6 @@
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
 - [Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
@@ -123,6 +123,7 @@
 
 ## JavaScript 
 
+- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
 - [DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - A 1.1.1.1 DNS resolver built for Discord
 - [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡️ Build scalable and accessible Vue.js applications with ease.
@@ -267,7 +268,8 @@
 
 ## Vue 
 
-- [AnotherPomodoro](https://github.com/Hanziness/AnotherPomodoro) - Free Pomodoro timer app built with Nuxt.
+- [nuxtjs-sample](https://github.com/walkersumida/nuxtjs-sample) - Nuxtjs sample! Typescript + Vuetify + Jest! (rails api server: https://github.com/walkersumida/rails-api-for-front)
+- [AnotherPomodoro](https://github.com/Hanziness/AnotherPomodoro) - Free and customizable Pomodoro timer app built with Nuxt.
 - [piping-phone-web](https://github.com/nwtgck/piping-phone-web) - 📞 Real-time Voice Messaging over HTTP/HTTPS for Web Browser via Piping Server
 - [is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [gridsome.org](https://github.com/gridsome/gridsome.org) - The website for Gridsome.org
