@@ -10,6 +10,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [DIGITAL Command Language](#digital-command-language)
   - [Dockerfile](#dockerfile)
   - [GDScript](#gdscript)
   - [Go](#go)
@@ -55,6 +56,10 @@
 
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
+
+## DIGITAL Command Language 
+
+- [blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files
 
 ## Dockerfile 
 
