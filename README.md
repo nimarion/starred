@@ -71,6 +71,7 @@
 
 ## Go 
 
+- [ditto](https://github.com/evilsocket/ditto) - A tool for IDN homograph attacks and detection.
 - [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
