@@ -26,6 +26,7 @@
   - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vue](#vue)
@@ -132,6 +133,7 @@
 
 ## JavaScript 
 
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [router-extras-module](https://github.com/nuxt-community/router-extras-module) - Extra Add-ons For Nuxt Router
 - [content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
@@ -253,6 +255,10 @@
 
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 
+## SCSS 
+
+- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+
 ## Shell 
 
 - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
@@ -275,7 +281,7 @@
 - [responsive-loader](https://github.com/dazuaz/responsive-loader) - A webpack loader for responsive images
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [vscode-dimmer](https://github.com/hoovercj/vscode-dimmer) - 
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [now-playing-profile](https://github.com/JoshLmao/now-playing-profile) - Originally created by github.com/natemoo-re, a small Spotify widget suitable for your profile! Read the "spotify-setup-guide.md" to get started
 - [random-daily-drive](https://github.com/Fensterbank/random-daily-drive) - A playlist generator for spotify based on your favorite songs and recommendations.
 
