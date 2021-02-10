@@ -264,6 +264,7 @@
 
 ## Shell 
 
+- [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
 - [craftcms](https://github.com/urbantrout/craftcms) - Craft CMS Docker Image
