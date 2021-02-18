@@ -294,6 +294,7 @@
 
 ## Vue 
 
+- [strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [ogi.egoist.sh](https://github.com/egoist/ogi.egoist.sh) - An online tool for generating Open Graph Image for your project.
 - [cherislistening](https://github.com/cherscarlett/cherislistening) - What if the Internet could experience your algo-rhythm?
 - [typescript-template](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js
