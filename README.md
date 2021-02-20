@@ -135,6 +135,8 @@
 
 ## JavaScript 
 
+- [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [strapi-docker](https://github.com/strapi/strapi-docker) - Install and run your first Strapi project using Docker
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [router-extras-module](https://github.com/nuxt-community/router-extras-module) - Extra Add-ons For Nuxt Router
 - [content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
