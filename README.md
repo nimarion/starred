@@ -136,6 +136,7 @@
 
 ## JavaScript 
 
+- [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js.
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [strapi-docker](https://github.com/strapi/strapi-docker) - Install and run your first Strapi project using Docker
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
