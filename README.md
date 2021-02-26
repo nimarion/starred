@@ -277,6 +277,7 @@
 
 ## TypeScript 
 
+- [hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [ufo](https://github.com/nuxt-contrib/ufo) - URL utils for humans 👽
 - [ipx](https://github.com/nuxt-contrib/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
