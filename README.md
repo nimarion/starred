@@ -104,6 +104,7 @@
 
 ## Java 
 
+- [playwright-java](https://github.com/microsoft/playwright-java) - Java version of the Playwright testing and automation library
 - [jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands for JDA
 - [java-dialogflow](https://github.com/googleapis/java-dialogflow) - 
 - [google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
@@ -136,6 +137,7 @@
 
 ## JavaScript 
 
+- [eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js.
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [strapi-docker](https://github.com/strapi/strapi-docker) - Install and run your first Strapi project using Docker
@@ -277,6 +279,7 @@
 
 ## TypeScript 
 
+- [vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2 🧪
 - [hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [ufo](https://github.com/nuxt-contrib/ufo) - URL utils for humans 👽
