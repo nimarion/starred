@@ -197,7 +197,7 @@
 
 - [prometheus-anomaly-detector](https://github.com/AICoE/prometheus-anomaly-detector) - A newer more updated version of the prometheus anomaly detector (https://github.com/AICoE/prometheus-anomaly-detector-legacy)
 - [MIR-Genre-Predictor](https://github.com/christianlomboy/MIR-Genre-Predictor) - Built in Python, this project contains two classifier models that predict a song’s genre. Each model was exposed to various data points gathered from a multitude of songs.
-- [HiDT](https://github.com/saic-mdal/HiDT) - Official repository for the paper High-Resolution Daytime Translation Without Domain Labels (CVPR2020, Oral)
+- [HiDT](https://github.com/saic-mdal/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
 
 ## Kotlin 
 
@@ -291,8 +291,8 @@
 - [vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2 🧪
 - [hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
-- [ufo](https://github.com/unjsio/ufo) - URL utils for humans
-- [ipx](https://github.com/unjsio/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
+- [ufo](https://github.com/un-js/ufo) - URL utils for humans
+- [ipx](https://github.com/un-js/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vstodo](https://github.com/benawad/vstodo) - Todo list for VSCode
