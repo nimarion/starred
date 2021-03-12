@@ -138,6 +138,7 @@
 
 ## JavaScript 
 
+- [dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
 - [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
