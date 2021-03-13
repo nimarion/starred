@@ -138,8 +138,8 @@
 
 ## JavaScript 
 
+- [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
 - [dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
-- [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - An infinite scroll plugin for Vue.js.
@@ -287,6 +287,7 @@
 
 - [nuxt-timings-module](https://github.com/danielroe/nuxt-timings-module) - 
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+- [codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
 - [1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2 🧪
