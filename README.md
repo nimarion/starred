@@ -138,6 +138,7 @@
 
 ## JavaScript 
 
+- [ackee-module](https://github.com/nuxt-community/ackee-module) - Nuxt.js module for Ackee analytics
 - [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
 - [dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
@@ -274,6 +275,8 @@
 
 ## Shell 
 
+- [rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
+- [dotfiles](https://github.com/lus/dotfiles) - The dotfiles for my personal Arch Linux environment
 - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [volumerize](https://github.com/blacklabelops/volumerize) - Docker Volume Backups Multiple Backends
