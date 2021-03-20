@@ -139,6 +139,7 @@
 
 ## JavaScript 
 
+- [filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
 - [ackee-module](https://github.com/nuxt-community/ackee-module) - Nuxt.js module for Ackee analytics
 - [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
@@ -234,6 +235,7 @@
 
 ## Python 
 
+- [teamvault](https://github.com/seibert-media/teamvault) - Keep your company's passwords behind the firewall
 - [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
 - [tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) - Pack up to 3MB of data into a tweetable PNG polyglot file.
 - [ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
