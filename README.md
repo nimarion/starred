@@ -74,6 +74,8 @@
 
 ## Go 
 
+- [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
+- [loadimpact/k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [evilsocket/ditto](https://github.com/evilsocket/ditto) - A tool for IDN homograph attacks and detection.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
@@ -239,6 +241,7 @@
 
 ## Python 
 
+- [tamarott/SinGAN](https://github.com/tamarott/SinGAN) - Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
 - [seibert-media/teamvault](https://github.com/seibert-media/teamvault) - Keep your company's passwords behind the firewall
 - [tobi-wan-kenobi/bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
 - [DavidBuchanan314/tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) - Pack up to 3MB of data into a tweetable PNG polyglot file.
@@ -299,6 +302,7 @@
 
 ## TypeScript 
 
+- [posva/vue-promised](https://github.com/posva/vue-promised) - 💝 Composable Promises & Promises as components
 - [danielroe/nuxt-timings-module](https://github.com/danielroe/nuxt-timings-module) - 
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
@@ -328,6 +332,7 @@
 
 ## Vue 
 
+- [DavidTParks/dev-portfolio-2.0](https://github.com/DavidTParks/dev-portfolio-2.0) - 
 - [altinselimi/kalendar](https://github.com/altinselimi/kalendar) - Full featured, responsive, lightweight calendar in the browser.
 - [strapi/strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
 - [egoist/ogi.egoist.sh](https://github.com/egoist/ogi.egoist.sh) - An online tool for generating Open Graph Image for your project.
@@ -337,7 +342,6 @@
 - [nwtgck/piping-phone-web](https://github.com/nwtgck/piping-phone-web) - 📞 Real-time Voice Messaging over HTTP/HTTPS for Web Browser via Piping Server
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org) - The website for Gridsome.org
-- [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 
 
 ## License
