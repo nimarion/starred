@@ -75,7 +75,7 @@
 ## Go 
 
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
-- [loadimpact/k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [evilsocket/ditto](https://github.com/evilsocket/ditto) - A tool for IDN homograph attacks and detection.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
