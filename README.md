@@ -109,6 +109,9 @@
 
 ## Java 
 
+- [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+- [Kaktushose/jda-commands](https://github.com/Kaktushose/jda-commands) - A simple yet highly customizable, annotation driven command framework for JDA
 - [microsoft/playwright-java](https://github.com/microsoft/playwright-java) - Java version of the Playwright testing and automation library
 - [cerus/jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands for JDA
 - [googleapis/java-dialogflow](https://github.com/googleapis/java-dialogflow) - 
@@ -142,6 +145,7 @@
 
 ## JavaScript 
 
+- [leereilly/github-high-scores](https://github.com/leereilly/github-high-scores) - :space_invader: 8-bit, 80s-tastic aracdey GitHub contributions viewing environment.
 - [beingmohit/browser-playerctl](https://github.com/beingmohit/browser-playerctl) - :headphones: Implements MPRIS interface for chrome
 - [tangbc/vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - ⚡️A vue component support big amount data list with high render performance  and efficient.
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
