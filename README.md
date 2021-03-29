@@ -74,6 +74,7 @@
 
 ## Go 
 
+- [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [evilsocket/ditto](https://github.com/evilsocket/ditto) - A tool for IDN homograph attacks and detection.
@@ -145,6 +146,7 @@
 
 ## JavaScript 
 
+- [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 
 - [leereilly/github-high-scores](https://github.com/leereilly/github-high-scores) - :space_invader: 8-bit, 80s-tastic aracdey GitHub contributions viewing environment.
 - [beingmohit/browser-playerctl](https://github.com/beingmohit/browser-playerctl) - :headphones: Implements MPRIS interface for chrome
 - [tangbc/vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) - ⚡️A vue component support big amount data list with high render performance  and efficient.
