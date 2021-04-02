@@ -74,6 +74,7 @@
 
 ## Go 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -309,6 +310,7 @@
 
 ## TypeScript 
 
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite
 - [posva/vue-promised](https://github.com/posva/vue-promised) - 💝 Composable Promises & Promises as components
 - [danielroe/nuxt-timings-module](https://github.com/danielroe/nuxt-timings-module) - 
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -339,6 +341,7 @@
 
 ## Vue 
 
+- [viewweiwu/vue-tabs-chrome](https://github.com/viewweiwu/vue-tabs-chrome) - chrome tab like.
 - [DavidTParks/dev-portfolio-2.0](https://github.com/DavidTParks/dev-portfolio-2.0) - 
 - [altinselimi/kalendar](https://github.com/altinselimi/kalendar) - Full featured, responsive, lightweight calendar in the browser.
 - [strapi/strapi-starter-nuxt-blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Strapi Starter Nuxt Blog
