@@ -74,6 +74,7 @@
 
 ## Go 
 
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
@@ -252,6 +253,7 @@
 
 ## Python 
 
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [tamarott/SinGAN](https://github.com/tamarott/SinGAN) - Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
 - [seibert-media/teamvault](https://github.com/seibert-media/teamvault) - Keep your company's passwords behind the firewall
 - [tobi-wan-kenobi/bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
