@@ -373,6 +373,7 @@
 
 ## Vue 
 
+- [Murked/vue-tailwind-admin](https://github.com/Murked/vue-tailwind-admin) - A basic admin dashboard template built using Tailwind & Vue.js.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [viewweiwu/vue-tabs-chrome](https://github.com/viewweiwu/vue-tabs-chrome) - chrome tab like.
 - [DavidTParks/dev-portfolio-2.0](https://github.com/DavidTParks/dev-portfolio-2.0) - 
