@@ -115,7 +115,7 @@
 - [UnderMybrella/EternalJukebox](https://github.com/UnderMybrella/EternalJukebox) - The internal workings for the Eternal Jukebox, a rehosting of the Infinite Jukebox
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [tailwindtoolbox/Minimal-Blog](https://github.com/tailwindtoolbox/Minimal-Blog) - Tailwind CSS Starter Template - Minimal Blog
-- [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 - [mathjax/MathJax-demos-web](https://github.com/mathjax/MathJax-demos-web) - A repository with examples using mathjax-v3
 - [Linuzifer/domain_seizure](https://github.com/Linuzifer/domain_seizure) - Ready to use mobile-friendly domain seizure pages
