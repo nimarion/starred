@@ -375,6 +375,7 @@
 
 ## TypeScript 
 
+- [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
