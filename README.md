@@ -22,6 +22,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [Nunjucks](#nunjucks)
   - [Others](#others)
   - [PHP](#php)
@@ -132,6 +133,7 @@
 
 ## Java 
 
+- [apache/mina-sshd](https://github.com/apache/mina-sshd) - Mirror of Apache MINA SSHD
 - [thomasdarimont/vertx-playground](https://github.com/thomasdarimont/vertx-playground) - Some experiments with the Vert.x Web Framework
 - [Redempt/Crunch](https://github.com/Redempt/Crunch) - The fastest Java library for compiling and evaluating mathematical expressions with variables
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -272,6 +274,10 @@
 
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## Nunjucks 
 
 - [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
@@ -297,6 +303,7 @@
 
 ## PHP 
 
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [wrav/oembed](https://github.com/wrav/oembed) - A simple plugin to extract media information from websites, like youtube videos, twitter statuses or blog articles.
 
