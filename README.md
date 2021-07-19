@@ -135,6 +135,7 @@
 
 ## Java 
 
+- [JorenSix/TarsosDSP](https://github.com/JorenSix/TarsosDSP) - A Real-Time Audio Processing Framework in Java
 - [ymartineau/peers](https://github.com/ymartineau/peers) - Java SIP softphone
 - [PierreSchwang/Netty-Packet](https://github.com/PierreSchwang/Netty-Packet) - Simple & Lightweight Netty packet library + event system
 - [apache/mina-sshd](https://github.com/apache/mina-sshd) - Mirror of Apache MINA SSHD
