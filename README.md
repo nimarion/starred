@@ -310,7 +310,6 @@
 
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-- [wrav/oembed](https://github.com/wrav/oembed) - A simple plugin to extract media information from websites, like youtube videos, twitter statuses or blog articles.
 
 ## PowerShell 
 
