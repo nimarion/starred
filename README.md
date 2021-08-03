@@ -224,7 +224,6 @@
 - [Linuzifer/domain_seizure](https://github.com/Linuzifer/domain_seizure) - Ready to use mobile-friendly domain seizure pages
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [MattIPv4/hacktoberfest-data](https://github.com/MattIPv4/hacktoberfest-data) - Generating stats from the Hacktoberfest 2020 raw GitHub and application data.
-- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [amiede/htwbingo](https://github.com/amiede/htwbingo) - htw-Video-Konferenzen-Bingo™
 - [unsplash/react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
 - [emmabostian/lol](https://github.com/emmabostian/lol) - 
@@ -344,7 +343,7 @@
 - [samshadwell/TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ## R 
 
@@ -417,6 +416,7 @@
 - [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories) - Stories for VSCode
 - [benawad/vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader) - uploads gifs to azure blob storage
 - [ide-stories/vscode-stories-api](https://github.com/ide-stories/vscode-stories-api) - api for vscode stories
+- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [dazuaz/responsive-loader](https://github.com/dazuaz/responsive-loader) - A webpack loader for responsive images
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
