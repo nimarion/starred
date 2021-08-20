@@ -100,7 +100,7 @@
 - [evilsocket/ditto](https://github.com/evilsocket/ditto) - A tool for IDN homograph attacks and detection.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately browse, organize, and share your photo collection. Free & Open Source. 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your memories to the cloud! 🌈
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
