@@ -398,6 +398,7 @@
 
 ## TypeScript 
 
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers.
 - [marcelreppi/moodle-buddy](https://github.com/marcelreppi/moodle-buddy) - Moodle Buddy is a browser plugin that offers mass download and notification functionality to the Moodle learning management platform
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
