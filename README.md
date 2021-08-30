@@ -146,7 +146,7 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- [Kaktushose/jda-commands](https://github.com/Kaktushose/jda-commands) - A simple yet highly customizable, annotation driven command framework for JDA
+- [Kaktushose/jda-commands](https://github.com/Kaktushose/jda-commands) - A declarative, annotation driven command framework for JDA
 - [microsoft/playwright-java](https://github.com/microsoft/playwright-java) - Java version of the Playwright testing and automation library
 - [cerus/jda-slash-commands](https://github.com/cerus/jda-slash-commands) - Slash commands (and message components) for JDA
 - [googleapis/java-dialogflow](https://github.com/googleapis/java-dialogflow) - 
