@@ -357,6 +357,7 @@
 
 ## Ruby 
 
+- [mlandauer/cuttlefish](https://github.com/mlandauer/cuttlefish) - Transactional email server with a lovely web interface
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [digitalocean/hacktoberfest](https://github.com/digitalocean/hacktoberfest) - Hacktoberfest - App to manage the annual open-source challenge, used for the 2019 & 2020 seasons.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
