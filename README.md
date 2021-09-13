@@ -64,6 +64,7 @@
 
 ## CSS 
 
+- [app-generator/html-parser](https://github.com/app-generator/html-parser) - Html Parser - Html to Pug, Jinja2, Blade Converter | AppSeed
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -125,7 +126,6 @@
 - [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 - [mathjax/MathJax-demos-web](https://github.com/mathjax/MathJax-demos-web) - A repository with examples using mathjax-v3
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
-- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
@@ -180,6 +180,7 @@
 
 ## JavaScript 
 
+- [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [useaurora/aurora](https://github.com/useaurora/aurora) - Hate Cookies? Introducing Aurora, 100% Cookie-Free Open Website Analytics. Collect Anonymous Data. Make your Audience Happy Now!
@@ -226,6 +227,7 @@
 - [Linuzifer/domain_seizure](https://github.com/Linuzifer/domain_seizure) - Ready to use mobile-friendly domain seizure pages
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [MattIPv4/hacktoberfest-data](https://github.com/MattIPv4/hacktoberfest-data) - Generating stats from the Hacktoberfest 2020 raw GitHub and application data.
+- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [amiede/htwbingo](https://github.com/amiede/htwbingo) - htw-Video-Konferenzen-Bingo™
 - [unsplash/react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
 - [emmabostian/lol](https://github.com/emmabostian/lol) - 
