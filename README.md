@@ -288,7 +288,7 @@
 
 ## Nunjucks 
 
-- [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)?
+- [1milligram/1loc](https://github.com/1milligram/1loc) - What's your favorite JavaScript single LOC (line of code)?
 
 ## Others 
 
